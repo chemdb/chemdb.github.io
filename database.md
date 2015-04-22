@@ -19,9 +19,9 @@ layout: post
 
 ## The Materials Project
 * [https://www.materialsproject.org/](https://www.materialsproject.org/)
-* 2015/02/19
-* 58101 compounds
-* 38281 bandstructures
+* As of 2015-04-22
+* 58123 compounds
+* 41952 bandstructures
 
 ## New Light Harvesting Materials
 * [https://cmr.fysik.dtu.dk/mp_gllbsc/mp_gllbsc.html](https://cmr.fysik.dtu.dk/mp_gllbsc/mp_gllbsc.html)
