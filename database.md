@@ -7,6 +7,9 @@ layout: post
 ## Fundamental Physical Constants from NIST, aka CODATA
 * [http://physics.nist.gov/cuu/Constants/](http://physics.nist.gov/cuu/Constants/)
 
+## EMSL Basis Set Exchange
+* [https://bse.pnl.gov/bse/portal](https://bse.pnl.gov/bse/portal)
+
 ## NIST-JANAF Thermochemical Tables
 * [http://kinetics.nist.gov/janaf/](http://kinetics.nist.gov/janaf/)
 
