@@ -423,3 +423,8 @@ Small Device Styles
   }
 
 }
+
+/* User defined */
+#project_title a {
+    color: #fff;
+}
