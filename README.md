@@ -1,2 +1,3 @@
-# Link
-* [GitHub Pages](http://chemdb.github.io/)
+# chemdb
+a database for chemists  
+see [GitHub Pages](http://chemdb.github.io/)
