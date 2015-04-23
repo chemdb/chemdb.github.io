@@ -4,6 +4,10 @@ layout: post
 
 # Programming
 
+## Index
+1. [Python](#python)
+2. [C library](#c-library)
+
 ## Python
 
 ### Scipy
