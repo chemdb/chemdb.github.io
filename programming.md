@@ -22,7 +22,7 @@ layout: post
 
 ### pyspglib for ASE
 * [http://spglib.sourceforge.net/pyspglibForASE/](http://spglib.sourceforge.net/pyspglibForASE/)
-* Pyspglib is the python module for [spglib](###Spglib) (C library).
+* Pyspglib is the python module for [spglib](#spglib) (C library).
 
 ## C library
 
