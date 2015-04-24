@@ -36,3 +36,11 @@ layout: post
 * Spglib is a C library for finding and handling crystal symmetries.
 
 <h2 id="c++-library">C++ library</h2>
+
+### Boost
+* [http://www.boost.org/](http://www.boost.org/)
+* Boost provides free peer-reviewed portable C++ source libraries.
+
+### Eigen
+* [http://eigen.tuxfamily.org/](http://eigen.tuxfamily.org/)
+* Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
