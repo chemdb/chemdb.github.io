@@ -7,6 +7,7 @@ layout: post
 ## Index
 1. [Python](#python)
 2. [C library](#c-library)
+3. [C++ library](#c++-library)
 
 ## Python
 
@@ -33,3 +34,5 @@ layout: post
 ### Spglib
 * [http://spglib.sourceforge.net/](http://spglib.sourceforge.net/)
 * Spglib is a C library for finding and handling crystal symmetries.
+
+<h2 id="c++-library">C++ library</h2>
