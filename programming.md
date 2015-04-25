@@ -29,6 +29,11 @@ layout: post
 * [http://spglib.sourceforge.net/pyspglibForASE/](http://spglib.sourceforge.net/pyspglibForASE/)
 * Pyspglib is the python module for [spglib](#spglib) (C library).
 
+# jasp
+* [https://github.com/jkitchin/jasp](https://github.com/jkitchin/jasp)
+* [http://kitchingroup.cheme.cmu.edu/dft-book/dft.html](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html)
+* python enhancements of ase.calculators.vasp 
+
 ## C library
 
 ### Spglib
