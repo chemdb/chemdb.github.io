@@ -10,4 +10,4 @@ layout: post
 
 ## Scilab
 * [http://www.scilab.org/](http://www.scilab.org/)
-* Scilab is free and open source software for numerical computation providing a powerful computing environment for engineering and scientific applications. 
+* Scilab is free and open source software for numerical computation providing a powerful computing environment for engineering and scientific applications.

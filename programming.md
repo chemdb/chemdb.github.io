@@ -85,7 +85,7 @@ Zero-overhead dimensional analysis and unit/quantity manipulation and conversion
 * SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
 
 ### ASE (Atomistic Simulation Environment)
-* [https://wiki.fysik.dtu.dk/ase/](https://wiki.fysik.dtu.dk/ase/) 
+* [https://wiki.fysik.dtu.dk/ase/](https://wiki.fysik.dtu.dk/ase/)
 * ASE is a set of tools and Python modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations.
 
 
@@ -101,4 +101,4 @@ Zero-overhead dimensional analysis and unit/quantity manipulation and conversion
 # jasp
 * [https://github.com/jkitchin/jasp](https://github.com/jkitchin/jasp)
 * [http://kitchingroup.cheme.cmu.edu/dft-book/dft.html](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html)
-* python enhancements of ase.calculators.vasp 
+* python enhancements of ase.calculators.vasp
