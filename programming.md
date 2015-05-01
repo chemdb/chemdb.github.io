@@ -5,34 +5,9 @@ layout: post
 # Programming
 
 ## Index
-1. [Python](#python)
-2. [C library](#c-library)
-3. [C++ library](#c++-library)
-
-## Python
-
-### Scipy
-* [http://www.scipy.org/](http://www.scipy.org/)
-* SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
-
-### ASE (Atomistic Simulation Environment)
-* [https://wiki.fysik.dtu.dk/ase/](https://wiki.fysik.dtu.dk/ase/) 
-* ASE is a set of tools and Python modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations.
-
-
-### GPAW
-* [https://wiki.fysik.dtu.dk/gpaw/](https://wiki.fysik.dtu.dk/gpaw/)
-* DFT and beyond within the projector-augmented wave method
-* Using real-space grid methods.
-
-### pyspglib for ASE
-* [http://spglib.sourceforge.net/pyspglibForASE/](http://spglib.sourceforge.net/pyspglibForASE/)
-* Pyspglib is the python module for [spglib](#spglib) (C library).
-
-# jasp
-* [https://github.com/jkitchin/jasp](https://github.com/jkitchin/jasp)
-* [http://kitchingroup.cheme.cmu.edu/dft-book/dft.html](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html)
-* python enhancements of ase.calculators.vasp 
+1. [C library](#c-library)
+2. [C++ library](#c++-library)
+3. [Python](#python)
 
 ## C library
 
@@ -102,3 +77,28 @@ Zero-overhead dimensional analysis and unit/quantity manipulation and conversion
 ### Eigen
 * [http://eigen.tuxfamily.org/](http://eigen.tuxfamily.org/)
 * Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+
+## Python
+
+### Scipy
+* [http://www.scipy.org/](http://www.scipy.org/)
+* SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
+
+### ASE (Atomistic Simulation Environment)
+* [https://wiki.fysik.dtu.dk/ase/](https://wiki.fysik.dtu.dk/ase/) 
+* ASE is a set of tools and Python modules for setting up, manipulating, running, visualizing and analyzing atomistic simulations.
+
+
+### GPAW
+* [https://wiki.fysik.dtu.dk/gpaw/](https://wiki.fysik.dtu.dk/gpaw/)
+* DFT and beyond within the projector-augmented wave method
+* Using real-space grid methods.
+
+### pyspglib for ASE
+* [http://spglib.sourceforge.net/pyspglibForASE/](http://spglib.sourceforge.net/pyspglibForASE/)
+* Pyspglib is the python module for [spglib](#spglib) (C library).
+
+# jasp
+* [https://github.com/jkitchin/jasp](https://github.com/jkitchin/jasp)
+* [http://kitchingroup.cheme.cmu.edu/dft-book/dft.html](http://kitchingroup.cheme.cmu.edu/dft-book/dft.html)
+* python enhancements of ase.calculators.vasp 
