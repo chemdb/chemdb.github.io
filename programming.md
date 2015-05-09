@@ -21,6 +21,10 @@ layout: post
 * [http://www.boost.org/](http://www.boost.org/)
 * Boost provides free peer-reviewed portable C++ source libraries.
 
+#### Accumulators
+[http://www.boost.org/libs/accumulators/](http://www.boost.org/libs/accumulators/)  
+Framework for incremental calculation, and collection of statistical accumulators.
+
 #### Geometry
 [http://www.boost.org/libs/geometry/](http://www.boost.org/libs/geometry/)  
 The Boost.Geometry library provides geometric algorithms, primitives and spatial index.
